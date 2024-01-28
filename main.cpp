@@ -11,6 +11,7 @@
 #include <QVBoxLayout>
 
 // 로컬 깃 저장소 커밋, 첫번째 테스트입니다.
+// 로컬 깃 저장소 커밋, 2번째 테스트입니다.
 
 #include <QFile>
 
